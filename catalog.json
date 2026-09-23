@@ -1,9 +1,33 @@
 {
   "schemaVersion": 1,
-  "settings": { "carouselStyle": "slide", "carouselSeconds": 5 },
+  "settings": {
+    "carouselStyle": "slide",
+    "carouselSeconds": 5
+  },
   "products": [
     {
-      "id": "ghost-signal-001", "name": "GHOST SIGNAL", "collection": "SYSTEM / 01", "description": "A signal from the other side of the network.", "price": 38, "currency": "USD", "tags": ["Cyber", "Graphic", "New"], "isNew": true, "featured": true, "published": true, "createdAt": "2026-09-23T00:00:00.000Z", "images": ["assets/ghost-signal.png", "assets/editorial.png"], "printifyProductId": "", "purchaseUrl": ""
+      "id": "algorithm-never-sleeps-001",
+      "name": "THE ALGORITHM NEVER SLEEPS",
+      "collection": "SECTOR 9 / 001",
+      "description": "A surveillance warning rendered in distressed red and bone-white ink. Mechanical eye, cameras, circuitry, and coded unrest.",
+      "price": 38,
+      "currency": "USD",
+      "tags": [
+        "Surveillance",
+        "Cybersecurity",
+        "Dystopia",
+        "New"
+      ],
+      "isNew": true,
+      "featured": true,
+      "published": true,
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "images": [
+        "assets/algorithm-front.png",
+        "assets/algorithm-editorial.png"
+      ],
+      "printifyProductId": "",
+      "purchaseUrl": ""
     }
   ]
 }

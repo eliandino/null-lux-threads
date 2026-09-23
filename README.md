@@ -1,6 +1,6 @@
 # NULL//LUX THREADS
 
-A dark, neon T-shirt storefront built for GitHub Pages. The starter catalog has one **concept product** with sample AI imagery. It has no live checkout until you add your own product links.
+A dark, neon T-shirt storefront built for GitHub Pages. The starter catalog has one **concept product** with AI imagery based on your surveillance-eye reference. The folder includes a front mockup, an editorial mockup, and a transparent artwork concept. The artwork is only 1027 × 1531 pixels; prepare and verify a full-resolution print file to the selected Printify template before selling. It has no live checkout until you add your own product links.
 
 ## Deploy on GitHub Pages
 
@@ -29,7 +29,7 @@ The stable catalog contract and suggested bot pipeline live in [`docs/AUTOMATION
 ## Files
 
 - `catalog.json`: catalog and carousel settings; publish by committing this file.
-- `assets/`: bundled concept images; replace with your owned mockups.
+- `assets/`: bundled concept shirt mockups and transparent artwork concept; replace or expand with your final approved artwork.
 - `studio.html` / `studio.js`: local browser editor, import and export.
 - `index.html` / `app.js` / `styles.css`: public storefront.
 
