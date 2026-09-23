@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "settings": { "carouselStyle": "slide", "carouselSeconds": 5 },
+  "products": [
+    {
+      "id": "ghost-signal-001", "name": "GHOST SIGNAL", "collection": "SYSTEM / 01", "description": "A signal from the other side of the network.", "price": 38, "currency": "USD", "tags": ["Cyber", "Graphic", "New"], "isNew": true, "featured": true, "published": true, "createdAt": "2026-09-23T00:00:00.000Z", "images": ["assets/ghost-signal.png", "assets/editorial.png"], "printifyProductId": "", "purchaseUrl": ""
+    }
+  ]
+}
