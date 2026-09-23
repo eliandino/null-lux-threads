@@ -34,3 +34,5 @@ The stable catalog contract and suggested bot pipeline live in [`docs/AUTOMATION
 - `index.html` / `app.js` / `styles.css`: public storefront.
 
 No build command or third-party runtime package is required. Fonts use Google Fonts with local fallbacks.
+
+https://eliandino.github.io/null-lux-threads/
